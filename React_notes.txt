@@ -1,0 +1,40 @@
+::::::::::::React.js:::::::::::::
+
+why React?
+1. Reusability          - components
+2. Data management      - state
+3. Performance          - virtual DOM
+4. HTML+JS connection   - JSX
+5. SPA                  - CSR(client side Rendering)
+6. Data flow            - One way data binding
+
+
+
+Developed by Meta, it can create and update state efficiently to render application.
+
+Key Features:
+    . components (for Reusability)
+    . props(properties used to pass data from parent to child)
+    . state(it nothing but data of components)
+    . virtual DOM(it is used to improve Performance of application)
+     whenever state change in components it will update the virtual DOM and then efficiently
+     update the Real DOM.
+    . JSX is syntax extension for JS that look similar to HTML
+     it allows Developers to write HTML like code in js
+    . Life cycle methods 
+    . Hooks
+    . React Router
+
+
+NodeJS------------->
+    It is run time environment used to run js file outside of browser.
+
+NPM-------------->
+    - It is a tool that allows Developers to manage libraries and dependencies for there projects
+    - It basically install, updates and remove packages.
+    - NPM registry(website) hosts a vast online repositories of open source packages which 
+    download and use in projects.
+    Key Features of NPM :
+        - Dependencies management in that specify packages of your projects depends packages
+        - Developers can publish packages on to registry(website).
+
