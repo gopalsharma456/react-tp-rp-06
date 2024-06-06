@@ -38,3 +38,12 @@ NPM-------------->
         - Dependencies management in that specify packages of your projects depends packages
         - Developers can publish packages on to registry(website).
 
+React Fragment--------->>>> 
+                React always returns single element thats why we use Fragment to return
+                multiple components.
+    3 ways to enclose multiple components 
+    1. <React.Fragment></React.Fragment>
+    2. <></>
+    3. <div></div>
+
+
